@@ -1,6 +1,6 @@
 
 # Seed generation visualization
-![](https://www.gnu.org/graphics/gplv3-or-later-sm.png)
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://www.gnu.org/graphics/gplv3-or-later-sm.png"></img></a>
 
 This is a very simple visualization of seed generation. It uses `pygame` for visualization, and the built-in `random` module for seed randomizing.
 
